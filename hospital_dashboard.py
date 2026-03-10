@@ -1,5 +1,3 @@
-# hospital_management_system_FINAL.py
-# 2,500+ LINES - ALL ERRORS FIXED - EVERYTHING VISIBLE
 
 import streamlit as st
 import pandas as pd
@@ -1141,3 +1139,4 @@ st.markdown("""
 # =====================================================================
 import atexit
 atexit.register(save_data)
+
